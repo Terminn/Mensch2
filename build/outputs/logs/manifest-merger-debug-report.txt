@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/52f9645fcb1a8d2f475a4a9a5442cd7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c5c3cf70cae50c98eab6c34c156eee8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a198456a133f2400f34967cfa860242b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1a6d484a3d57205ff9c1a124ea8f24ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2b01b580135cf670e60990b5e034fd96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5c75dbe568a130cdc32749947fa0b4d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4acdf3267d1469a83d514cd2efe1fb5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e01f74c11562a6f74eb656a18f9a1319/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/674cec4bef1ddde1cce7b54d0c584819/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/66b40c5ec7b91bacd658b29c39419ca8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d4f44908d74a4d007f05c34bf53f12f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/590944386831ac0807843db17e492360/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c5f3d1693cae9c4f01e37f3ebcdbe214/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/db82a63ca424e4319d59d703e1306702/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/83f155aaa45453219b3b65dfd758bd24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/93f94d0735f4fb12db02c4a0c257e495/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4df56c31f297a53322b17f5c19d2600/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94e69b3529cee5d06b1381d2d670600f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/776a018e8c4dab41e501c020f83e4855/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e306e7704483914454b88a226d90b95a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f19ec1cb684474240c0501694f1d3c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b587e65436efd4f9bcea69d03f89c284/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/71a9756076fa51bd9ab63956d1664874/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e3494584dd59150c8af3d5bb91536292/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a375d3d18a60ad36e8b4e974b75aebf3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1e1f6d8b362fcde14a6c4c534b7fd594/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1ed8c56e88f928fab0d4350f4a52014a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4476956ab6cf96aa9616f170e9b4cc5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4df56c31f297a53322b17f5c19d2600/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4df56c31f297a53322b17f5c19d2600/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94e69b3529cee5d06b1381d2d670600f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94e69b3529cee5d06b1381d2d670600f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4df56c31f297a53322b17f5c19d2600/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mensch.FullscreenActivity
+ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:15:13-45
+	android:configChanges
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:14:13-74
+	android:theme
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:16:13-51
+	android:name
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:13:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/52f9645fcb1a8d2f475a4a9a5442cd7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/52f9645fcb1a8d2f475a4a9a5442cd7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c5c3cf70cae50c98eab6c34c156eee8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c5c3cf70cae50c98eab6c34c156eee8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a198456a133f2400f34967cfa860242b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a198456a133f2400f34967cfa860242b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1a6d484a3d57205ff9c1a124ea8f24ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1a6d484a3d57205ff9c1a124ea8f24ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2b01b580135cf670e60990b5e034fd96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2b01b580135cf670e60990b5e034fd96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5c75dbe568a130cdc32749947fa0b4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5c75dbe568a130cdc32749947fa0b4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4acdf3267d1469a83d514cd2efe1fb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4acdf3267d1469a83d514cd2efe1fb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e01f74c11562a6f74eb656a18f9a1319/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e01f74c11562a6f74eb656a18f9a1319/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/674cec4bef1ddde1cce7b54d0c584819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/674cec4bef1ddde1cce7b54d0c584819/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/66b40c5ec7b91bacd658b29c39419ca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/66b40c5ec7b91bacd658b29c39419ca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d4f44908d74a4d007f05c34bf53f12f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d4f44908d74a4d007f05c34bf53f12f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/590944386831ac0807843db17e492360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/590944386831ac0807843db17e492360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c5f3d1693cae9c4f01e37f3ebcdbe214/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c5f3d1693cae9c4f01e37f3ebcdbe214/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/db82a63ca424e4319d59d703e1306702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/db82a63ca424e4319d59d703e1306702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/83f155aaa45453219b3b65dfd758bd24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/83f155aaa45453219b3b65dfd758bd24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/93f94d0735f4fb12db02c4a0c257e495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/93f94d0735f4fb12db02c4a0c257e495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4df56c31f297a53322b17f5c19d2600/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e4df56c31f297a53322b17f5c19d2600/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94e69b3529cee5d06b1381d2d670600f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/94e69b3529cee5d06b1381d2d670600f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/776a018e8c4dab41e501c020f83e4855/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/776a018e8c4dab41e501c020f83e4855/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e306e7704483914454b88a226d90b95a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e306e7704483914454b88a226d90b95a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f19ec1cb684474240c0501694f1d3c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5f19ec1cb684474240c0501694f1d3c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b587e65436efd4f9bcea69d03f89c284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/b587e65436efd4f9bcea69d03f89c284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/71a9756076fa51bd9ab63956d1664874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/71a9756076fa51bd9ab63956d1664874/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e3494584dd59150c8af3d5bb91536292/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e3494584dd59150c8af3d5bb91536292/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a375d3d18a60ad36e8b4e974b75aebf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/terminn/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a375d3d18a60ad36e8b4e974b75aebf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1e1f6d8b362fcde14a6c4c534b7fd594/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1e1f6d8b362fcde14a6c4c534b7fd594/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1ed8c56e88f928fab0d4350f4a52014a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1ed8c56e88f928fab0d4350f4a52014a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4476956ab6cf96aa9616f170e9b4cc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/terminn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a4476956ab6cf96aa9616f170e9b4cc5/AndroidManifest.xml:20:5-44
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/terminn/AndroidStudioProjects/Mensch-master/app/src/main/AndroidManifest.xml
